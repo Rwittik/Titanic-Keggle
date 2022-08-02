@@ -8,7 +8,7 @@ I created a model with the following steps:
 
 1.Download and explore the dataset<br/>
 2.Analys the data<br/>
-3.Use different classifier to train the model<br/>
+3.Use different classifier for accuracy of the model<br/>
 4.train the models<br/>
 5.Make predictions using the trained model<br/>
 
