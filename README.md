@@ -1,6 +1,6 @@
 # Predicting the survival status of passengers on the Titanic Using Logistic Regression.
 
-check notebook:https:https://jovian.ai/rwittik/titanic-kaggle
+check notebook :https://jovian.ai/rwittik/titanic-kaggle
 
 In this problem I used real data from the Titanic to calculate conditional probabilities and expectations.and also I used information from titanic.csv datset. The dataset for this problem is taken from: https://www.kaggle.com/c/titanic/data
 
